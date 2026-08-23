@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:28:40.391141+00:00",
+  "updated_at": "2026-08-23T21:28:09.122267+00:00",
   "data_referencia": "2026-08-23",
   "airport_icao": "SBBE",
   "airport_name": "Belem",
@@ -958,28 +958,6 @@
       "fonte": "SIROS/ANAC",
       "rota": "SBEG",
       "rota_nome": "Manaus"
-    },
-    {
-      "callsign": "TAP48",
-      "numero_voo": "48",
-      "airline_icao": "TAP",
-      "airline": "TAP Portugal",
-      "equipamento_icao": "A21N",
-      "equipamento": "Airbus A321neo",
-      "assentos": "163",
-      "etapa": "1",
-      "tipo_operacao": "Internacional",
-      "tipo_servico": "REGULAR DE PASSAGEIROS INTERNACIONAL",
-      "origem_icao": "SBBE",
-      "destino_icao": "LPPT",
-      "partida_iso": "2026-08-22T23:40:00-03:00",
-      "chegada_iso": "2026-08-23T07:30:00-03:00",
-      "partida_brt": "23:40",
-      "chegada_brt": "07:30",
-      "status": "programado",
-      "fonte": "SIROS/ANAC",
-      "rota": "LPPT",
-      "rota_nome": "LPPT"
     },
     {
       "callsign": "TAM3571",
